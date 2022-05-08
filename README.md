@@ -1,6 +1,4 @@
-# my vite react app
-
-my sample
+# my vite react-ts app
 
 - next like routes
 - sass + tailwind
